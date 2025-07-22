@@ -5,6 +5,9 @@ import numpy as np
 from PIL import Image
 import os
 
+# Set YOLO config directory for cloud deployment
+os.environ['YOLO_CONFIG_DIR'] = '/tmp'
+
 # Load the model
 model = YOLO('runs/detect/train/weights/best.pt')
 
