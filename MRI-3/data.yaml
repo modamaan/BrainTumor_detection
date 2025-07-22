@@ -1,0 +1,13 @@
+names:
+- Brain-Tumor
+- eye
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: mri-rskcu
+  url: https://universe.roboflow.com/brain-mri/mri-rskcu/dataset/3
+  version: 3
+  workspace: brain-mri
+test: ../test/images
+train: ../train/images
+val: ../valid/images
