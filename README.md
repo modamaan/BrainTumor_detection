@@ -2,6 +2,10 @@
 
 An AI-powered web application for detecting brain tumors in MRI scans using YOLOv8 object detection.
 
+<img width="2555" height="1176" alt="Screenshot 2025-07-23 083446" src="https://github.com/user-attachments/assets/38a5f81b-7753-4426-bb5c-ed2bd36100ea" />
+
+<img width="2559" height="1170" alt="Screenshot 2025-07-23 083422" src="https://github.com/user-attachments/assets/d273c3b7-b290-40d4-a1f5-67336ac9a220" />
+
 ## 🎯 Features
 
 - **Real-time Detection**: Upload MRI images and get instant AI analysis
